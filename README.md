@@ -1,5 +1,8 @@
 # Apadrinhamento
 
+# Tecnologia da Aplicação?
+# Tecnologia do Banco de Dados?
+
  > ######Entries 
  
 User -> Entidade / Default_user
