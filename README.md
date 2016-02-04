@@ -1,7 +1,12 @@
 # Apadrinhamento
 
-# Tecnologia da Aplicação?
-# Tecnologia do Banco de Dados?
+# Tecnologia da Aplicação:
+ - JSF
+ - PrimeFaces (bootstrap)
+ - Maven
+ - Tomcat 7
+# Tecnologia do Banco de Dados:
+ - Postgres
 
  > ######Entries 
  
