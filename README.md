@@ -1,17 +1,17 @@
 # Apadrinhamento
 
-# Tecnologia da Aplicação:
+ > ######Entries 
+ 
+* Tecnologia da Aplicação:
+
  - JSF
  - PrimeFaces (bootstrap)
  - Maven
  - Tomcat 7
-# Tecnologia do Banco de Dados:
- - Postgres
-
- > ######Entries 
  
-User -> Entidade / Default_user
-Animal
+* Tecnologia do Banco de Dados:
+
+ - Postgres
 
 > ###### Views
 
